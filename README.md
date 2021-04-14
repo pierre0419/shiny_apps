@@ -6,7 +6,9 @@ First app allows to quickly extract and visualize data from Twitter :
 
 https://pierre-api.shinyapps.io/twitter_explorer/
 
-With the second app you can visualize datas from Paris :
+
+
+The second app is an intreactive map of Paris :
 
 https://pierre-api.shinyapps.io/arrondissements/
 
