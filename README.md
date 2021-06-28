@@ -10,7 +10,7 @@ You also can compare forecasting models.
 
 [**Stock Forecast**](https://pierre-api.shinyapps.io/stock_forecast/ "Stock Forecast")
 
-Packages used :  [quandl](https://www.quandl.com/tools/r/ "The world’s most powerful data lives on Nasdaq’s Quandl") , [modeltime](https://tidymodels.tidymodels.org/ "modeltime is part of the Tidymodel ecosystem"), [Highcharter](https://jkunst.com/highcharter/ "Highcharter R"), [Tidyverse](https://www.tidyverse.org/ "Tidyverse").
+Packages used :  [Quandl](https://www.quandl.com/tools/r/ "The world’s most powerful data lives on Nasdaq’s Quandl") , [Modeltime](https://tidymodels.tidymodels.org/ "Tidy time series forecasting with tidymodels"), [Highcharter](https://jkunst.com/highcharter/ "Highcharter R"), [Tidyverse](https://www.tidyverse.org/ "Tidyverse").
 
 ***
 
@@ -20,7 +20,7 @@ Contains time serie, network, trends, hashtags popularity, wordcloud.
 
 [**Twitter Explorer**](https://pierre-api.shinyapps.io/twitter_explorer/ "Twitter Explorer")
 
-Packages used :  [twinetverse](http://twinetverse.john-coene.com/ "collect, build and visualise Twitter networks") , [Wordcloud2](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html "Wordcloud2"), [Plotly](https://plotly.com/r/ "Plotly R"), [Tidyverse](https://www.tidyverse.org/ "Tidyverse").
+Packages used :  [Twinetverse](http://twinetverse.john-coene.com/ "collect, build and visualise Twitter networks") , [Wordcloud2](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html "Wordcloud2"), [Plotly](https://plotly.com/r/ "Plotly R"), [Tidyverse](https://www.tidyverse.org/ "Tidyverse").
 
 ***
 
