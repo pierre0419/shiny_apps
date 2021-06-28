@@ -4,16 +4,17 @@
 
 ***
 
-First app allows to quickly extract data from Yahoo Finance and visualize forecast of valors .
+First app allows to quickly extract and visualize data from Yahoo Finance.
+You also can compare forecasting models.
 
 
 [**Stock Forecast**](https://pierre-api.shinyapps.io/stock_forecast/ "Stock Forecast")
 
-Packages used :  [quantmod](http://twinetverse.john-coene.com/ "collect, build and visualise Twitter networks") , [modeltime](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html "modeltime is part of the Tidymodel ecosystem"), [highcharter](https://plotly.com/r/ "Plotly R"), [Tidyverse](https://www.tidyverse.org/ "Tidyverse").
+Packages used :  [quandl](https://www.quandl.com/tools/r/ "The world’s most powerful data lives on Nasdaq’s Quandl") , [modeltime](https://tidymodels.tidymodels.org/ "modeltime is part of the Tidymodel ecosystem"), [highcharter](https://plotly.com/r/ "Plotly R"), [Tidyverse](https://www.tidyverse.org/ "Tidyverse").
 
 ***
 
-First app allows to quickly extract and visualize data from Twitter.
+With this app you can extract and visualize data from Twitter.
 
 Contains time serie, network, trends, hashtags popularity, wordcloud.
 
@@ -23,7 +24,7 @@ Packages used :  [twinetverse](http://twinetverse.john-coene.com/ "collect, buil
 
 ***
 
-The second app is an interactive map of Paris. 
+The third app is an interactive map of Paris. 
 
 Contains choropleth map, dendogram, heatmap.
 
