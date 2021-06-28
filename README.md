@@ -20,7 +20,7 @@ Contains time serie, network, trends, hashtags popularity, wordcloud.
 
 [**Twitter Explorer**](https://pierre-api.shinyapps.io/twitter_explorer/ "Twitter Explorer")
 
-Packages used :  [twinetverse](http://twinetverse.john-coene.com/ "collect, build and visualise Twitter networks") , [Wordcloud2](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html "Wordcloud2"), [Plotly](https://plotly.com/ "Plotly R"), [Tidyverse](https://www.tidyverse.org/ "Tidyverse").
+Packages used :  [twinetverse](http://twinetverse.john-coene.com/ "collect, build and visualise Twitter networks") , [Wordcloud2](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html "Wordcloud2"), [Plotly](https://plotly.com/r/ "Plotly R"), [Tidyverse](https://www.tidyverse.org/ "Tidyverse").
 
 ***
 
